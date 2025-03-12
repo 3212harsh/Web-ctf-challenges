@@ -1,0 +1,11 @@
+name - Lost_in_Tables
+
+description - You are provided with MySQL credentials. Login in to the database and retrieve the flag. username - "root" | password - "lostintables"
+
+flag - flag{MY5Ql_G0D}
+
+category - web
+
+difficulty - easy
+
+task - docker pull harsh075/lost_in_tables
