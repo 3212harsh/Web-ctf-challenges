@@ -8,4 +8,4 @@ category - Web
 
 difficulty - Medium
 
-task - docker pull harsh075/unionized_chaos
+task - docker pull harsh075/unionized_chaos   ( docker run -d harsh075/unionized_chaos )

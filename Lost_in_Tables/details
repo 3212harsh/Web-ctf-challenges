@@ -8,4 +8,4 @@ category - web
 
 difficulty - easy
 
-task - docker pull harsh075/lost_in_tables
+task - docker pull harsh075/lost_in_tables    ( docker run -d harsh075/lost_in_tables )

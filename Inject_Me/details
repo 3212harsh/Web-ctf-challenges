@@ -1,0 +1,13 @@
+name - Inject_Me
+
+description -	A simple login page… or is it?
+		You’ve got a username and password field, but the system seems to trust your input a bit too much.
+		The key to entering lies within a flaw in their logic. Find the hidden path to admin access, and the secret flag will be yours.
+
+flag - flag{L0G1N_BYP455_V14_5QL}
+
+category - web
+
+difficulty - easy
+
+task - docker pull harsh075/inject_me  ( docker run -d harsh075/inject_me )
